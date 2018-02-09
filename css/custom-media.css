@@ -1,0 +1,1018 @@
+@media (min-width: 768px) {
+
+	ul.main-menu li.main-dropdown:hover 
+	ul.header-dropdown {
+		display: block;
+			}
+
+}
+
+
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1135px; 
+  }
+
+  .award-list li img {
+    float: left;
+    padding-right: 35px;
+	}
+	.tube-desc {
+    padding: 0px 20px 50px;
+	}
+}
+
+
+@media (max-width:992px) and (min-width: 767px){
+
+	.fixed-navmenu .nav-menu .navbar-nav li a, .nav-menu .navbar-nav li a {
+		font-size: 11px;
+		
+	}
+
+	.header-logo img {
+		max-width: 120px;
+		margin-top: 10px;
+	}
+
+	.businessicon img {
+		padding-right: 60px;
+	}
+
+	.agency-thumbnail-block .caption h3 {
+		height: 48px;
+		line-height: 10px;
+		
+	}
+
+	.agency-thumbnail-block .caption h3 a {
+    font-size: 12px;
+	}
+	 .agency-thumbnail-block .caption .agency-date {
+	 	padding-top: 10px;
+	 }
+
+	 .agency-thumbnail-block .caption .agency-news {
+	 	height: 90px;
+		width: 200px;
+	 }
+
+}
+
+
+@media (max-width: 1116px) and (min-width: 320px) {
+
+	.header-logo {
+		padding-top: 0px;
+	}
+}
+
+
+@media (max-width: 767px){
+
+	.header-logo img {
+		max-width: 180px;
+		margin-top: 10px;
+	}
+
+	.fixed-navmenu .header-logo img {
+		padding-top: 8px;
+	}
+
+	.header-content {
+	    padding-top: 80px;
+	}
+
+	ul.navbar-nav.navbar-right.main-menu li ul.header-dropdown li a {
+    color: #000000;
+	}
+
+	.nav-menu .navbar-nav li a::after {
+		display: none;
+	}
+    
+    ul.navbar-nav.navbar-right.main-menu li ul.header-dropdown {
+    	background-color: #ffffff;
+    }
+
+	.welcome-features-row {
+		display: table;
+		margin: 0 auto;
+		
+	}
+
+	.welcome-features-row .item-list {
+		text-align: center;
+	}
+
+	.agent-form {
+		float: none;
+	}
+	.welcome-icon {
+		display: table;
+		margin: 0 auto;
+	}
+	.item-list {
+		margin-bottom: 30px;
+	}
+
+	.header-select-btn {
+		display: table;
+		margin: 0 auto;
+	}
+
+	.agent-form {
+		display: table;
+		margin: 0 auto;
+	}
+
+	#welcome {
+	    padding: 20px 0px 65px;
+	}
+
+	.coverage-title p {
+		font-size:24px
+	}
+
+	.service-title p{
+	font-size: 24px;}
+
+	.welcome-header h1 {
+		margin-top: 40px;
+	} 
+
+	.florida-content-block ,.insurance-product-block,.agency-block,.find-insurance-block {
+		padding: 30px;
+	}
+
+	.agency-thumbnail-block .caption h3 {
+    text-align: center;
+    margin-left: auto;
+	margin-right: auto;
+	display: block;
+	font-size: 12px;
+	width: 100%;
+	height: 100%;
+	}
+
+	.agency-thumbnail-block .caption .agency-news {
+	height: 93px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 100%;
+	height: 100%;
+	height: 66px;
+	}
+
+	.agency-thumbnail-block .caption .agency-date {
+	padding-top: 10px;
+	text-align: center;
+	}
+
+	.btn-readmore {
+	margin-left: auto;
+	margin-right: auto;
+	
+	}
+
+	.p-readmore {
+	text-align: center;
+	}
+
+	.custom-nav-tabs li.active {
+	background: #ffffff;
+	}
+
+	.insurancepage-header-content h1 {
+	    font-size: 55px;
+	}
+	.insurancepage-header-content {
+		padding: 30px 0px;
+		text-align: center;
+	}
+	.i-header-list li {
+		margin-bottom: 10px;
+	}
+	.insurance-middle-block,
+	 .insurance-pageform-block,.banner-header-block,.support-header-block {
+		padding: 30px 0px;.
+	}
+
+
+	.franchise-list {
+		margin:30px;
+	}
+
+	.franchise-list-block {
+		margin: 20px 0px;
+	}
+
+	.franchise-middle-block {
+		padding: 30px;
+	}
+
+	.franchise-list-block h1 {
+	    font-size: 36px;
+	    padding: 30px;
+	}
+
+	.franchise-list-row{
+		margin-top:0px;
+	}
+
+	.franchise-era-block {
+	    padding: 30px 0px;
+	}
+
+	.franchise-sidecontent {
+		text-align: center;
+		margin:20px 0px;
+	}
+
+	.franchise-sidecontent h1,
+	.franchise-middle-content h1
+	 {
+		font-size: 32px;
+	}
+
+	.agent-profile-social h3 {
+		font-size: 22px;
+	}
+
+	.agent-profile-social h4 {
+		font-size: 14px;
+	}
+
+	.agentprofile-socialicon li a {
+		width: 40px;
+		height: 40px;
+		font-size: 12px;
+		line-height: 40px;
+	}
+
+	.agentprofile-socialicon ul {
+		margin:20px 0px;
+	}
+
+	.agent-profile-content {
+		margin-top: 0px;
+	}
+
+	.query-modal-body p {
+    font-size: 18px;
+  }
+
+  .query-modal-body {
+    margin: 20px;
+    padding: 20px;
+   }
+
+   .query-modal-title h5 {
+    font-size: 24px;
+  }
+
+  .query-modal-dialog,
+  .thank-modal-dialog {
+    width: 500px;
+  }
+
+  .query-btn-cancel,
+  .query-btn-submit {
+  	display: table;
+  	margin:10px auto;
+  }
+
+  .contact-btn-cancel,
+  .contact-btn-submit {
+  	display: table;
+  	margin:10px auto;
+  }
+
+  .banner-header-block h1 {
+    font-size:25px;
+	}
+	.core-value {
+	margin-top: -15px;
+	padding: 35px 30px;
+	} 
+	.core-title h3 {
+    font-size: 35px;
+	}
+
+	.core-title p {
+    font-size: 18px;
+	}
+
+	.inner-his {
+		padding-bottom: 30px;
+	}
+	.history-btm-content p {
+    font-size: 40px;
+	}
+	.set-btn a {
+    font-size: 15px;
+    padding: 10px 20px;
+    margin-top: 30px;
+	}
+	.inner-insure p {
+		font-size: 25px;
+	}
+	.person-detail:before {
+		height: 60px;
+		width: 70px;
+		left: 0px;
+		top: 0px;
+		background-size: 100%;
+	}
+
+	.why-nav-pills li a {
+	/*max-width: 85px;
+	min-width: 85px;*/
+	font-size: 12px;
+	height: 60px;
+	}
+
+	.why-nav-pills li a span {
+		line-height: 10px;
+	}
+	.backend-content-block ul li {
+	font-size: 14px;
+	}
+
+	.contact-modal-body {
+    background-color: #ffffff;
+    margin: 20px;
+    padding: 20px;
+  }
+
+	.why-nav-pills li.active a::before {
+		left: 50px;
+	}
+
+	.features-content {
+		padding: 0px 10px;
+	}
+
+	.features-title {
+		padding: 0px;
+	}
+
+	.support-middle-content p {
+    padding: 30px;
+   }
+	
+
+	.find-insuranceform-group {
+		float: none;
+	}
+}
+
+
+@media (max-width: 1199px) and (min-width: 992px){
+	.top-header {
+		width: 70%;
+	}
+
+
+	 .agency-thumbnail-block .caption .agency-news {
+	 	
+		width: 260px;
+	 }
+
+
+}
+
+@media  (max-width: 1199px) and (min-width: 768px) {
+	
+
+	.why-nav-pills li a {
+	font-size: 14px;
+	height: 65px;
+	}
+}
+
+
+@media (max-width: 767px) and (min-width: 480px) {
+	
+	.header-navbar {
+		float: none;
+	}
+
+	.inner-title p {
+		font-size: 32px;
+	}
+
+	.florida-content h1 {
+		font-size: 32px;
+	}
+
+	.fixed-navmenu .insurance-itemlist ul.insurance-listcontent li a,  .insurance-itemlist ul.insurance-listcontent li a {
+		font-size: 12px;
+	}
+
+	.insurance-dropcontent-col ul li a::before {
+		font-size: 12px;
+	}
+
+	.insurance-dropcontent-col .btn-view {
+		font-size: 9px !important;
+
+		}
+
+		.insurance-listcontent {
+		border-bottom: 1px solid #eeeeee;
+		height: 110px;
+		overflow: hidden;
+	}
+
+}
+
+@media (max-width:1199px){
+	.footer-socialicon ul li a {
+		padding: 9px 11px;
+		font-size: 12px;
+	}
+
+	.features-title h2 {
+		font-size: 14px!important;
+		padding-top: 40px;
+	}
+
+	.features-title img {
+		padding-right: 10px;
+	}
+
+	.business-content {
+		padding-top: 55px
+	}
+	.business-btn button {
+		margin-bottom: 27px;
+		}
+
+	.footer-socialicon li a {
+		line-height: 24px;
+		margin-bottom: 10px;
+	}
+
+	.business-content p {
+		font-size: 14px;
+		padding-right: 0px;
+	}
+
+	.agentprofile-socialicon ul li {
+		padding-right: 20px;
+	}
+
+	.agentprofile-refer-btn {
+		float: none;
+		margin-bottom: 10px;
+	}
+
+}
+
+@media (max-width: 991px) {
+
+	.top-header {
+		width: 100%;
+	}
+	
+	.footercontent-col {
+		margin-bottom: 30px;
+	}
+	.servicetitle-col {
+		background: url('../images/service-first.png')no-repeat;
+		height: auto;
+	}
+
+	.protectcontent-col {
+		background: #0060B7;
+		height: auto;
+		text-align: center;
+		padding: 0px 15px;
+	}
+	.agent-btn button {
+		margin-bottom: 30px;
+	}
+
+	.service-title p {
+		padding: 90px 50px;
+		text-align: center
+	}
+	
+	 .serv-secondcol::before,.service-middlecontent,.serv-secondcol::after,
+	 .cov-secondcol::before,.coverage-middlecontent,.cov-secondcol::after{
+		display: none;
+	}
+	.coverage-service {
+		background-color: #14273A;
+	}
+	.coveragecontent-col {
+		background:#e14034;
+		height: auto;
+		text-align: center;
+		padding: 0px 15px
+	}
+
+	.coveragetitle-col {
+		background: url('../images/service-first.png')no-repeat;
+		height: auto;
+	}
+
+	.coverage-content h2{
+		padding-top: 73px;
+	}
+
+	.coverage-content {
+		padding-right: 0px;
+	}
+
+	.protect-content h2 {
+		padding-top: 55px;
+	}
+	
+	.coverage-title p {
+    padding: 90px 50px;
+    text-align: center;
+   }
+
+   .business-btn {
+	margin-bottom: 30px;
+	}
+
+	.businessicon img {
+	padding-top: 35px;
+	}
+
+	.homeowners-icon,.coverage-icon {
+		display: inline-block;
+	}  
+
+	.custom-modal-dialog {
+		max-width: 100%;
+
+	}
+
+  .prop-secondcol::before,.property-middlecontent,.prop-secondcol::after,
+	.propertyr-firstcol::before,.propertyr-middlecontent,.propertyr-firstcol::after,
+	.propertytitle-col,.propertyr-title-col
+	{
+		display: none;
+	}
+
+	.propertycontent-col {
+		background-color: #005AAB;
+		margin:20px;
+		text-align: center;
+		height: 400px;
+		padding-bottom: 10px;
+	}
+
+	.locateform-middlecontent,
+	.locateform-firstcol,
+	.locateform-secondcol {
+		display: none;
+	}
+
+	.locateform-content-col {
+		background-color: #E14034;
+		text-align: center;
+		padding: 30px;
+		height: 450px;
+	}
+
+	.agentlocate-title-col {
+		background-color: #0060B7;
+		text-align: center;
+		padding: 30px;
+	}
+
+	.propertyr-content-col{
+    background-color: #e14034;
+    margin: 20px;
+    text-align: center;
+    height: 400px;
+    padding: 10px;
+	}
+	.propertyr-types {
+		background-color: #2f2f2f;
+	}
+	.support-msg-icon {
+		margin-bottom: 25px;
+	}
+
+	.support-msg-icon img {
+		padding-bottom: 0px;
+	}
+	.support-item-list a {
+		font-size: 17px;
+	}
+	.agent-post-detail {
+		text-align: center;
+	}
+	.agent-post-detail img {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.agent-post-content {
+		margin-bottom: 90px;
+	}
+
+	.agent-post-block {
+		margin-bottom: 30px;
+	}
+
+	.franchise-sidecontent {
+	 text-align: center;
+	 padding-top: 30px
+	}
+
+	.franchise-sidecontent h1 {
+		font-size: 24px;
+	}
+
+	.agent-profile img {
+		display: table;
+		margin:0 auto;
+	}
+
+	.agent-profile-social h3,
+	.agent-profile-social h4 {
+		color:#000000;
+	}
+
+	.agent-profile-social h3 {
+		padding-top:30px;
+	}
+
+	.agent-profile-bottom {
+		margin:0px 0px 20px;
+		padding:20px;
+	}
+
+	.agentprofile-work-detail {
+		bottom: 0px;
+	}
+
+	.agentprofile-work-block {
+		margin: 20px auto;
+	}
+
+	.agentprofile-find-block h1 {
+		font-size: 24px;
+	}
+
+	.agentprofile-find-block {
+    padding: 40px 0px 0px;
+	}
+	.contact-heading h2 {
+		font-size: 30px;
+	}
+	.contact-heading p {
+		padding-top: 15px;
+	}
+	.find-an-agent-body .navbar-menu .nav-menu .navbar-nav li a {
+    font-size: 12px;
+    padding:10px 12px;
+	}
+	.page-breadcrumb .breadcrumb {
+    padding: 15px 0px;
+	}
+	.contact-service-block {
+    margin-top: 55px;
+	}
+	.contact-map {
+    margin-top: 55px;
+	}
+	.contact-map iframe {
+		height: 350px;
+	}
+	.btn-submit {
+		padding:8px 12px;
+	}
+
+	.core-text {
+    height: auto;
+    display: table;
+    margin: 0 auto;
+	}
+	.core-image {
+	display: table;
+	margin: 0 auto;
+	padding-top: 30px;
+	}
+
+	.banner-header-block h1 {
+    font-size: 36px;
+    padding: 30px;
+	}
+	.award-list li {
+    margin-bottom: 20px;
+	}
+	
+	.who-history {
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+	.agent-profile-bottom {
+    	margin-top: 35px !important;
+    	padding-top: 45px !important;
+	}
+	.his-title::before {
+		top:94px;
+	}
+	.his-title {
+		font-size: 30px;
+	}
+
+	.know-best > p {
+		font-size: 30px;
+	}
+	.tube-block {
+		margin-bottom: 40px;
+	}
+	.see-all {
+    padding-top: 20px;
+	}
+	.see-all a {
+		padding: 10px 30px;
+		font-size: 17px;
+	}
+	.tube-desc > p {
+		height: auto;
+		padding-top: 20px;
+	}
+	.we-insure {
+		padding:50px 0px;
+	}
+
+	.carrier-img-block img {
+	display: table;
+	margin: 20px auto;
+	}
+
+	.franchise-why-block .why-sideimg {
+    margin-top: 50px;
+    display: table;
+    margin: 0 auto;
+  }
+
+  .why-detail-content {
+    padding: 20px 0px;
+  }
+
+  .whywe-row {
+    margin-top: 50px;
+	}
+  
+}
+
+@media (max-width: 480px) {
+	.top-header .phone {
+	font-size: 10px;
+	padding: 0px 10px 0px 0px;
+	}
+	.top-header .header-social i {	
+		font-size: 11px;
+		padding-right: 6px;
+	}	
+	.business-content h2{
+	font-size:22px;	
+	}
+	.inner-title p {
+	font-size: 22px;
+	}
+
+	.coverage-icon img,.homeowners-icon img {
+	width: 30px;
+	}
+
+	.coverage-icon p,.homeowners-icon p {
+		font-size: 10px;
+	}
+
+	.protect-content h2 {
+		padding-top: 72px;
+	}
+
+	.protect-content h2,.coverage-content h2 {	
+		font-size: 28px;
+	}
+	.coverage-content p{
+		font-size: 14px;
+		padding: 18px 10px;
+	}
+	.florida-content h1 {
+		font-size: 22px;
+	}
+
+	.florida-content h2 {
+		font-size: 18px;
+	}
+
+	.florida-content p {
+		font-size: 14px;
+		text-align: justify;
+		line-height: 25px;
+	}
+
+	.fixed-navmenu .insurance-itemlist ul.insurance-listcontent li a,  
+	.insurance-itemlist ul.insurance-listcontent li a{
+	font-size: 8px;
+	line-height: 15px;
+	padding-left: 8px
+	}
+
+	.insurance-dropcontent-col ul li a::before {
+		font-size: 9px;
+		line-height: 11px;
+	}
+
+	.insurance-dropcontent-col .btn-view {
+		font-size: 8px !important;
+	}
+
+	.insurance-listcontent {
+		height: 38px;
+		
+	}
+	.find-insurance-form .agent-btn button {
+		padding: 23px;
+	}
+
+	.find-insuranceform-control {
+		width: 250px;
+	}
+
+	.find-insurance-content h1 {
+		font-size: 18px;
+	}
+
+	.home-getquote-block {
+		padding: 30px;
+	}
+
+	.welcome-header h1 {
+		font-size: 34px;
+	}
+
+	.insurance-types-title{
+		font-size: 24px;
+		padding-top: 30px;
+	}
+
+	.insurance-types-content {
+		font-size: 16px;
+		text-align: justify;
+	}
+
+	.agent-profile-bottom p {
+		font-size: 16px;
+	}
+
+		header  {
+		background-size: auto 100%;
+		background-attachment: unset;
+	}
+	
+}
+
+
+@media (max-width: 1200px) and (min-width: 991px){
+	.homeowners-icon ul li p {	font-size: 10px;
+	}
+
+	.businessicon img {
+    padding-top: 65px;
+}
+
+}
+
+@media (max-width:540px) {
+	.insurance-header-content {
+		margin: 20px auto;
+		display: table;
+		padding:0px 0px 25px;
+	} 
+
+	.insurance-header-content-block {
+		width: 300px;
+		text-align: center;
+	}
+
+	.insurance-title h2 {
+    font-size: 20px
+	}
+
+	.insurance-title p {
+		font-size: 14px;
+	}
+
+	.insurance-header-content-block .getquote-btn {
+		left: -10%;
+	}
+
+	.insuranceform-group select {
+		width: 200px;
+	}
+}
+
+
+@media(max-width: 891px){
+	.custom-nav-tabs li.active a {
+	color: #005AAB;
+	}
+
+	.custom-nav-tabs li.active .h-img {
+		background-position: 5px center;
+	}
+
+	.custom-nav-tabs li .h-img {
+		background-position: 5px center;
+	}
+
+	.custom-nav-tabs li .h-img:hover,
+	.custom-nav-tabs li .h-img:focus
+	{	
+		background-position: 5px center;
+	}
+
+	.custom-nav-tabs li  .a-img {
+		background-position: 5px center;
+	}
+	.custom-nav-tabs li.active .a-img {
+		background-position: 5px center;
+	}
+
+	.custom-nav-tabs li  .a-img:hover,
+	.custom-nav-tabs li  .a-img:focus
+	 {
+		background-position: 5px center;
+	}
+
+	.custom-nav-tabs li  .b-img {
+		background-position: 5px center;
+
+	}
+	.custom-nav-tabs li.active  .b-img {
+		background-position: 5px center;
+	}
+
+	.custom-nav-tabs li a.b-img:hover,
+	.custom-nav-tabs li a.b-img:focus,
+	.custom-nav-tabs li a.b-img:active
+	{
+		background-position: 5px center;
+	}
+
+	.custom-nav-tabs li a {
+	padding:20px 25px 20px 65px;
+	font-size: 14px;
+	}
+
+}
+@media(max-width:550px) {
+	.award-list li {
+    display: block;
+	}
+	.award-list li img {
+    float: none;
+    padding-right: 0px;
+    display: table;
+    margin: 0 auto;
+	}
+	.person-desc img {
+		height: 40px;
+		top: 40px;
+	}
+	.tube-desc {
+		padding: 0px 20px 50px;
+	}
+	.person-detail:before {
+    height: 40px;
+	width: 50px;
+	top: 20px;
+    background-size: 100%;
+	}
+
+	.find-insurance-block  {
+		background-size: auto 100%;
+		background-attachment: unset;
+	}
+	
+}
+
+@media(max-width: 420px) {
+	.person-detail:before {
+		display: none;
+	}
+}
+
+
+
+
+
+
+
